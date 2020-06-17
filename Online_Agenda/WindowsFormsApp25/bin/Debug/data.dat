@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <AddressBook>
+    <Name>Laers</Name>
+    <Surname>Tsouko</Surname>
+    <Phone>6982646402</Phone>
+    <Address>Agxialou 80</Address>
+    <Email>tsoukolaers@outlook.com.gr</Email>
+    <ID>-3</ID>
+    <DBO>21-02</DBO>
+  </AddressBook>
+  <AddressBook>
+    <Name>Aleksia</Name>
+    <Surname>el</Surname>
+    <Phone>6981933456</Phone>
+    <Address>ctgbh</Address>
+    <Email>alex@hujyftfgy.gr</Email>
+    <ID>-4</ID>
+    <DBO>21-02</DBO>
+  </AddressBook>
+  <AddressBook>
+    <Name>frjk</Name>
+    <Surname>rkjglrf</Surname>
+    <Phone>6985888</Phone>
+    <Address>Agxialou 0909</Address>
+    <Email>eklfhlkfh4kr@hotmsil.com</Email>
+    <ID>-5</ID>
+    <DBO>06-02</DBO>
+  </AddressBook>
+</DataSet1>
